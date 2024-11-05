@@ -11,6 +11,7 @@ This project aims to evaluate the phpMyAdmin website for any issues related to f
 
 ****Step 1: INSTALL LOCAL SERVER ENVIRONMENT****
  Choose any local server environment to install on the local machine. In this project XAMPP is used as local server.
+
  INSTALL XAMMP from the official website. After the installation start Apache and MYSQL servers from the control panel. 
 
 **SETTING UP PHPMYADMIN**
