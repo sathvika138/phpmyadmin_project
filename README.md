@@ -1,6 +1,5 @@
 # phpmyadmin_project
-A project on testing the functionality, performance and security of phpmyadmin.
-
+WEB APPLICATION TESTING PROJECT
 
 **About the project**
 
