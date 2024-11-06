@@ -20,14 +20,29 @@ Usually phpmyadmin is bundled with xampp, so there is no need for installing it 
 Open the browser and type in http://localhost/phpmyadmin. 
 
 **OBJECTIVES**: 
+
 Functional Testing: Verify features like database creation, inserting data and user privilage management. 
+
 UI/UX Testing: Testing if the interface, usability and responsiveness is working as expected.
+
 Performance Testing: Analyse performance under load and any complex queries.
+
 Dtabase Integrety Testing: Verify the integrety of the data is managed.
+
 Security Testing: Ensuring the privacy of the data, unauthorised access is maintained. 
 
-Testcase ID: FP001
 
+
+
+
+
+
+
+
+
+
+
+Testcase ID: FP001
   
 Title: Verify if the phpmyadmin is opened when typed in "http://localhost/phpmyadmin". 
 
