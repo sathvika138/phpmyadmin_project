@@ -41,7 +41,7 @@ Security Testing: Ensuring the privacy of the data, unauthorised access is maint
 
 **TESTING METHODOLOGIES**
 
-Functional Testing: Testing the functionality of the web application (Phpmyadmin)
+**Functional Testing**: Testing the functionality of the web application (Phpmyadmin)
 
 > Create database and check the presence of it.
 
@@ -49,55 +49,27 @@ Functional Testing: Testing the functionality of the web application (Phpmyadmin
 
 > Import and export of the documents.
 
-UI/UX testing: Testing the interface, Usability and aspects of the application
+**UI/UX testing**: Testing the interface, Usability and aspects of the application
 
 > Check the usability on diffrent sized screen of the application.
 
 > Check the concsistency of the UI.
 
-Performace Testing: Testing and analyzing the performance of the application under load and complex queries.
+**Performace Testing**: Testing and analyzing the performance of the application under load and complex queries.
 
 > Check the application on uploading large datasets.
 
 > Load test with multiple users.
 
-Database Integrety Testing: Testing the procedure of the application
+**Database Integrety Testing**: Testing the procedure of the application
 
 > Insert, Drop, Update and delete the records
 
 > check the foreign key constraints
 
-Security Testing: Testing the maintainace of the unauthorised access and privacy of the data
+**Security Testing**: Testing the maintainace of the unauthorised access and privacy of the data
 
 > Access data from unauthorised account
 
 > Check for any SQL injection vulnerabilities ( which means allowing attackers to insert malicious data into the SQL queries) 
-
-
-
-
-
-
-
-
-Testcase ID: FP001
-  
-Title: Verify if the phpmyadmin is opened when typed in "http://localhost/phpmyadmin". 
-
- 
-Preconditions: Install XAMPP and start apache and MYSQL from panel. 
-
-Steps: 
-
-> Install XAMPP from the website.
-
-> Properly follow the steps given in the installation process.
-
-> Start the Apache and MYSQL in the control panel
-
-> Type in the localhost link to open phpmyadmin.
-
-Expected Result: The phpmyadmin website is opened and is successfully installed and ready to use.
- 
- 
 
